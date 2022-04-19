@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "TMC2208")(type "KiCad")(uri "${KIPRJMOD}/TMC2208/footprints.pretty")(options "")(descr ""))
+)
